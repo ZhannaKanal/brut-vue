@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-black text-[orange] rounded-8">
-       Go to wine page
+    <div class="">
+second header
     </div>
 </template>
 
