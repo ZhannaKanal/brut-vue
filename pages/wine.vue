@@ -1,16 +1,22 @@
 <template>
   <div>
-    <BaseHeader />
-    <BreadCrumbs />
+    <header class="fixed top-0 left-0 w-full z-50 bg-white ">
+      <BaseHeader />
+    </header>
+<main class="pt-[175px]">
+      <BreadCrumbs />
     <Banner />
+    <div class="min-h-[700px] bg-slate-500">
+
+    </div>
+</main>
   </div>
 </template>
 
 <script setup>
-import BaseHeader from '~/components/BaseHeader.vue'
-import BreadCrumbs from '~/components/BreadCrumbs.vue'
-import Banner from '~/components/Banner.vue';
+import BaseHeader from "~/components/BaseHeader.vue";
+import BreadCrumbs from "~/components/BreadCrumbs.vue";
+import Banner from "~/components/Banner.vue";
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
