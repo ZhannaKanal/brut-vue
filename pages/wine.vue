@@ -1,15 +1,14 @@
 <template>
   <div>
-    <header class="fixed top-0 left-0 w-full z-50 bg-white ">
+    <!-- <header class="fixed top-0 left-0 w-full z-50 bg-white transition-all duration-500">
       <BaseHeader />
-    </header>
-<main class="pt-[175px]">
+    </header> -->
+    <BaseHeader/>
+    <main class="pt-[175px]">
       <BreadCrumbs />
-    <Banner />
-    <div class="min-h-[700px] bg-slate-500">
-
-    </div>
-</main>
+      <Banner />
+      <div class="min-h-[700px] bg-slate-500"></div>
+    </main>
   </div>
 </template>
 
