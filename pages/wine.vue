@@ -1,13 +1,13 @@
 <template>
   <div>
     <BaseHeader />
-    <SecondHeader />
+    <BreadCrumbs />
   </div>
 </template>
 
 <script setup>
 import BaseHeader from '~/components/BaseHeader.vue'
-import SecondHeader from '~/components/SecondHeader.vue'
+import BreadCrumbs from '~/components/BreadCrumbs.vue'
 </script>
 
 <style lang="scss" scoped>
