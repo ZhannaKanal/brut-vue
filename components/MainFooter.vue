@@ -1,6 +1,6 @@
 <template>
   <div class="px-[80px] w-full mx-auto bg-[#1c100d]">
-    <div class="flex justify-between pt-[90px] pb-[72px]">
+    <div class="grid grid-cols-3 gap-[100px] pt-[90px] pb-[72px]">
       <div class="main-block-content-1">
         <div class="buyers mb-[64px] flex flex-col">
           <h3 class="text-[#d0ad77] text-[20px] mb-[24px]">Покупателям</h3>
