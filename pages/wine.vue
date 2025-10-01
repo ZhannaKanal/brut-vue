@@ -9,6 +9,7 @@
       <Banner />
       <div class="min-h-[700px] bg-slate-500"></div>
     </main>
+    <MainFooter />
   </div>
 </template>
 
@@ -16,6 +17,7 @@
 import BaseHeader from "~/components/BaseHeader.vue";
 import BreadCrumbs from "~/components/BreadCrumbs.vue";
 import Banner from "~/components/Banner.vue";
+import MainFooter from "~/components/MainFooter.vue";
 </script>
 
 <style lang="scss" scoped></style>
