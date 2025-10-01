@@ -10,6 +10,8 @@
       <div class="min-h-[700px] bg-slate-500"></div>
     </main>
     <MainFooter />
+    <hr class="boreder-0 h-[1.5px] bg-[#fff]">
+    <BottomFooter />
   </div>
 </template>
 
@@ -18,6 +20,7 @@ import BaseHeader from "~/components/BaseHeader.vue";
 import BreadCrumbs from "~/components/BreadCrumbs.vue";
 import Banner from "~/components/Banner.vue";
 import MainFooter from "~/components/MainFooter.vue";
+import BottomFooter from "~/components/BottomFooter.vue";
 </script>
 
 <style lang="scss" scoped></style>
