@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper-left-right px-[80px] w-full mx-auto grid cols-2 gap-[60px]">
+  <div class="wrapper-left-right px-[80px] w-full mx-auto flex justify-start gap-[60px]">
     <LeftSide />
     <RightSide />
   </div>

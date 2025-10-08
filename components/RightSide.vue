@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper-right-side"></div>
+  <div class="wrapper-right-side">right</div>
 </template>
 
 <script>
