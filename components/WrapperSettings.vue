@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper-settings mb-[32px] w-full grid grid-cols-2">
+  <div class="wrapper-settings pb-[16px] mb-[32px] w-full grid grid-cols-2">
     <div class="wrapper-sort flex gap-[8px] justify-start items-center">
       <p class="sort" data-v-79a2b167="">Сначала подешевле</p>
       <img
