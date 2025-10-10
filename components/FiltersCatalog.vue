@@ -2,6 +2,8 @@
     <div class="wrapper-filters-catalog mt-[35px] grid gap-[32px]">
         <SubCategories />
         <WrapperFilter />
+        <SubCategories />
+
     </div>
 </template>
 

@@ -51,6 +51,7 @@
             </div>
         </div>
     </div>
+    <p class="show-all-items mt-[32px] text-[#c49955]">Показать всё</p>
   </div>
 </template>
 
