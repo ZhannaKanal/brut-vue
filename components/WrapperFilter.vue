@@ -8,11 +8,11 @@
         alt="arrow-up-filter"
       />
     </div>
-    <div class="wrapper-menu">
-        <div class="wrapper-range-filter">
-            <div class="wrapper-inputs">
-                <input type="number" name="" id="" step="1" min="2500" max="1400000">
-                <input type="number" name="" id="" step="1" min="2500" max="1400000">
+    <div class="wrapper-menu max-w-[310px] w-full">
+        <div class="wrapper-range-filter w-full">
+            <div class="wrapper-inputs w-full mb-[16px] flex gap-[8px]">
+                <input type="number" name="" id="" step="1" value="2500" min="2500" max="1400000" class="w-1/2 border rounded-[8px] py-[10px] px-[16px] text-[grey]"></input>
+                <input type="number" name="" id="" step="1" value="5000" min="2500" max="1400000" class="w-1/2 border rounded-[8px] py-[10px] px-[16px] text-[grey]"></input>
             </div>
             <div class="wrapper-range-component">
 
