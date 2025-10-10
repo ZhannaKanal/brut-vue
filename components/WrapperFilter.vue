@@ -9,57 +9,73 @@
       />
     </div>
     <div class="wrapper-menu max-w-[310px] w-full">
-        <div class="wrapper-range-filter w-full">
-            <div class="wrapper-inputs w-full mb-[16px] flex gap-[8px]">
-                <input type="number" name="" id="" step="1" value="2500" min="2500" max="1400000" class="w-1/2 border rounded-[8px] py-[10px] px-[16px] text-[grey]"></input>
-                <input type="number" name="" id="" step="1" value="5000" min="2500" max="1400000" class="w-1/2 border rounded-[8px] py-[10px] px-[16px] text-[grey]"></input>
-            </div>
-            <div class="wrapper-range-component">
-
-            </div>
+      <div class="wrapper-range-filter w-full">
+        <div class="wrapper-inputs w-full mb-[16px] flex gap-[8px]">
+          <input
+            type="number"
+            name=""
+            id=""
+            step="1"
+            value="2500"
+            min="2500"
+            max="1400000"
+            class="w-1/2 border rounded-[8px] py-[10px] px-[16px] text-[grey]"
+          />
+          <input
+            type="number"
+            name=""
+            id=""
+            step="1"
+            value="5000"
+            min="2500"
+            max="1400000"
+            class="w-1/2 border rounded-[8px] py-[10px] px-[16px] text-[grey]"
+          />
         </div>
-        <div class="wrapper-diapason-values flex flex-col gap-[16px]">
-            <div class="wrapper-item-diapason-values">
-                <div class="radio-and-label flex justify-start gap-[12px]">
-                    <div class="wrapper-radio-button flex items-center">
-                       <input type="radio" class="w-[19px] h-[19px]"></input>
-                    </div>
-                    <p class="text-[#000]"> до 5000 ₸ </p>
-                </div>
+        <div class="wrapper-range-component"></div>
+      </div>
+      <div class="wrapper-diapason-values flex flex-col gap-[16px]">
+        <div class="wrapper-item-diapason-values">
+          <div class="radio-and-label flex justify-start gap-[12px]">
+            <div class="wrapper-radio-button flex items-center">
+              <input type="radio" class="w-[19px] h-[19px]" />
             </div>
-            <div class="wrapper-item-diapason-values">
-                <div class="radio-and-label flex justify-start gap-[12px]">
-                    <div class="wrapper-radio-button flex items-center">
-                       <input type="radio" class="w-[19px] h-[19px]"></input>
-                    </div>
-                    <p class="text-[#000]"> до 5000 ₸ </p>
-                </div>
-            </div>
-            <div class="wrapper-item-diapason-values">
-                <div class="radio-and-label flex justify-start gap-[12px]">
-                    <div class="wrapper-radio-button flex items-center">
-                       <input type="radio" class="w-[19px] h-[19px]"></input>
-                    </div>
-                    <p class="text-[#000]"> до 5000 ₸ </p>
-                </div>
-            </div>
-            <div class="wrapper-item-diapason-values">
-                <div class="radio-and-label flex justify-start gap-[12px]">
-                    <div class="wrapper-radio-button flex items-center">
-                       <input type="radio" class="w-[19px] h-[19px]"></input>
-                    </div>
-                    <p class="text-[#000]"> до 5000 ₸ </p>
-                </div>
-            </div>
-            <div class="wrapper-item-diapason-values">
-                <div class="radio-and-label flex justify-start gap-[12px]">
-                    <div class="wrapper-radio-button flex items-center">
-                       <input type="radio" class="w-[19px] h-[19px]"></input>
-                    </div>
-                    <p class="text-[#000]"> до 5000 ₸ </p>
-                </div>
-            </div>
+            <p class="text-[#000]">до 5000 ₸</p>
+          </div>
         </div>
+        <div class="wrapper-item-diapason-values">
+          <div class="radio-and-label flex justify-start gap-[12px]">
+            <div class="wrapper-radio-button flex items-center">
+              <input type="radio" class="w-[19px] h-[19px]" />
+            </div>
+            <p class="text-[#000]">до 5000 ₸</p>
+          </div>
+        </div>
+        <div class="wrapper-item-diapason-values">
+          <div class="radio-and-label flex justify-start gap-[12px]">
+            <div class="wrapper-radio-button flex items-center">
+              <input type="radio" class="w-[19px] h-[19px]" />
+            </div>
+            <p class="text-[#000]">до 5000 ₸</p>
+          </div>
+        </div>
+        <div class="wrapper-item-diapason-values">
+          <div class="radio-and-label flex justify-start gap-[12px]">
+            <div class="wrapper-radio-button flex items-center">
+              <input type="radio" class="w-[19px] h-[19px]" />
+            </div>
+            <p class="text-[#000]">до 5000 ₸</p>
+          </div>
+        </div>
+        <div class="wrapper-item-diapason-values">
+          <div class="radio-and-label flex justify-start gap-[12px]">
+            <div class="wrapper-radio-button flex items-center">
+              <input type="radio" class="w-[19px] h-[19px]" />
+            </div>
+            <p class="text-[#000]">до 5000 ₸</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
